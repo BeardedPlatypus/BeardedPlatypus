@@ -4,7 +4,7 @@ Hi there, and thanks for checking out my github profile! I am a software
 engineer from the netherlands with a passion for Computer Graphics, functional
 programming and intuitive desktop applications.  
 
-## Professional life
+## Professional life: .NET developer at Deltares
 
 I am currently employed at Deltares, a water knowledge institute, where I work
 as a .NET software engineer and scrum master. In my day-to-day work, I 
@@ -13,7 +13,7 @@ with big dose of C# and a sparkle of python.
 
 <img align='left' src='https://raw.githubusercontent.com/BeardedPlatypus/BeardedPlatypus/master/img/dance_gh.gif' width='180"'>
 
-## Down time
+## Down time: More programming, but with colours
 
 When I am not programming professionally, I can usually be found programming 
 unprofessionally, ehr, programming on my personal projects! Mostly this 
