@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/BeardedPlatypus/BeardedPlatypus/master/img/dance_gh.gif' width='200"'>
+<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/run_cycle_gh.gif?raw=true' height='200"'>
 
 Hi there, and thanks for checking out my github profile! I am a software
 engineer from the netherlands with a passion for Computer Graphics, functional
@@ -11,7 +11,7 @@ as a .NET software engineer and scrum master. In my day-to-day work, I
 improve our Hydrodynamic modeling suites as well as our automated processes
 with big dose of C# and a sparkle of python.
 
-<img align='left' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/run_cycle_gh.gif?raw=true' height='200"'>
+<img align='left' src='https://raw.githubusercontent.com/BeardedPlatypus/BeardedPlatypus/master/img/dance_gh.gif' width='180"'>
 
 ## Down time
 
