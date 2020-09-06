@@ -1,16 +1,34 @@
-### Hi there 👋
+<img align='right' src='https://raw.githubusercontent.com/BeardedPlatypus/BeardedPlatypus/master/img/dance_gh.gif' width='300"'>
 
-<!--
-**BeardedPlatypus/BeardedPlatypus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, and thanks for checking out my github profile! I am a software
+engineer from the netherlands with a passion for Computer Graphics, functional
+programming and intuitive desktop applications.
 
-Here are some ideas to get you started:
+<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/run_cycle_gh.gif?raw=true' height='300"'
+## Professional life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently employed at Deltares, a water knowledge institute, where I work
+as a .NET software engineer and scrum master. In my day-to-day work, I 
+improve our Hydrodynamic modeling suites as well as our automated processes
+with big dose of C# and a sparkle of python.
+
+<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/sleeping_gh.gif?raw=true' width='300"'>
+## Down time
+
+When I am not programming professionally, I can usually be found programming 
+unprofessionally, ehr, programming on my personal projects! Mostly this 
+consists of over-engineering simple graphics applications. I am still trying to
+break into game-development, some day ...
+Most of my personal projects can be found right here on github. Currently I am
+a bit obsessed with F# and Fabulous for Xamarin.Forms. Other than that I can 
+often be found programming in C++, with an occassional outing into Elm, python.
+
+Besides programming I try to continuously learn new things. Sometimes draw, mostly
+poorly, and occassionally work on custom keyboard designs. 
+
+<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/waving_gh.gif?raw=true' height='300"'>
+## Contact me!
+
+Got a cool idea you want to share, pick my brain about one of my projects or 
+got an interesting business proposal, you can reach me at my linkedin! I am 
+looking forward to hearing from you!
