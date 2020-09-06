@@ -4,7 +4,13 @@ Hi there, and thanks for checking out my github profile! I am a software
 engineer from the netherlands with a passion for Computer Graphics, functional
 programming and intuitive desktop applications.
 
-<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/run_cycle_gh.gif?raw=true' height='200"'
+  
+  
+  
+  
+  
+  
+<img align='right' src='https://github.com/BeardedPlatypus/BeardedPlatypus/blob/master/img/run_cycle_gh.gif?raw=true' height='200"'>
 
 ## Professional life
 
