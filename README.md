@@ -31,5 +31,5 @@ poorly, and occassionally work on custom keyboard designs.
 ## Contact me!
 
 Got a cool idea you want to share, pick my brain about one of my projects or 
-got an interesting business proposal, you can reach me at my linkedin! I am 
-looking forward to hearing from you!
+got an interesting business proposal, you can reach me at [my linkedin](https://www.linkedin.com/in/maartentegelaers)! 
+I am looking forward to hearing from you!
