@@ -9,7 +9,7 @@ programming and intuitive desktop applications.
 I am currently employed at Deltares, a water knowledge institute, where I work
 as a .NET software engineer and scrum master. In my day-to-day work, I 
 improve our Hydrodynamic modeling suites as well as our automated processes
-with big dose of C# and a sparkle of python.
+using a big dose of C# and a sparkle of python.
 
 <img align='left' src='https://raw.githubusercontent.com/BeardedPlatypus/BeardedPlatypus/master/img/dance_gh.gif' width='180"'>
 
@@ -21,7 +21,8 @@ consists of over-engineering simple graphics applications. I am still trying to
 break into game-development, some day ...  
 Most of my personal projects can be found right here on github. Currently I am
 a bit obsessed with F# and Fabulous for Xamarin.Forms. Other than that I can 
-often be found programming in C++, with an occassional outing into Elm, python.
+often be found programming in C++, with an occassional outing into Elm, python
+or other programming language.
 
 Besides programming I try to continuously learn new things. Sometimes draw, mostly
 poorly, and occassionally work on custom keyboard designs. 
@@ -31,5 +32,5 @@ poorly, and occassionally work on custom keyboard designs.
 ## Contact me!
 
 Got a cool idea you want to share, pick my brain about one of my projects or 
-got an interesting business proposal, you can reach me at [my linkedin](https://www.linkedin.com/in/maartentegelaers)! 
+just want to connect with me, you can reach me at [my linkedin](https://www.linkedin.com/in/maartentegelaers)! 
 I am looking forward to hearing from you!
